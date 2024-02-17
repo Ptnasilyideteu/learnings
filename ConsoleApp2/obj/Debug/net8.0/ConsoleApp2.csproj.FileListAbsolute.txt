@@ -1,0 +1,14 @@
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+E:\суперпуперкрутыепроекты\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
