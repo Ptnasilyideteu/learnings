@@ -9,19 +9,19 @@ using System.Reflection;
 
         Console.WriteLine("Введите количество строк треугольника:");
 
-        int rows = Convert.ToInt32(Console.ReadLine()); // количество строк треугольника, введенное пользователем
-        int i = 1; // переменная для отслеживания текущей строки
+        int rows = Convert.ToInt32(Console.ReadLine()); 
+        int i = 1; 
 
         while (i <= rows)
         {
-            string stars = new string('*', i); // строка с символами "*"
+            string stars = new string('*', i); 
 
-            Console.WriteLine(stars); // вывод строки с символами "*"
+            Console.WriteLine(stars); 
 
             i++;
         }
 
-        Console.ReadLine(); // чтобы консоль не закрывалась сразу
+        Console.ReadLine(); 
     }
 
 }
