@@ -5,38 +5,23 @@ using System.Reflection;
 
     {
 
-        
 
-        int i = 1;
-       Console.WriteLine("введите параметр треугольника");
-        int rows = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Введите количество строк треугольника:");
+
+        int rows = Convert.ToInt32(Console.ReadLine()); // количество строк треугольника, введенное пользователем
+        int i = 1; // переменная для отслеживания текущей строки
 
         while (i <= rows)
         {
-            
-            int j = 1;
+            string stars = new string('*', i); // строка с символами "*"
 
-            
-            while (j <= rows - i)
-            {
-                Console.Write("");
-                j++;
-            }
-
-            j = 1;
-
-            
-            while (j <= 2 * i - 1)
-            {
-                Console.Write("*");
-                j++;
-            }
-
-            Console.WriteLine(); 
+            Console.WriteLine(stars); // вывод строки с символами "*"
 
             i++;
         }
 
-        Console.ReadLine(); 
+        Console.ReadLine(); // чтобы консоль не закрывалась сразу
     }
+
 }
